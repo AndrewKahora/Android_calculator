@@ -1,2 +1,2 @@
 # Android_calculator
-A simple android application calculator
+A simple android calculator application.
